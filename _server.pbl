@@ -1,0 +1,7 @@
+title="Noob Trainer"
+type="mod_mp"
+icon="units/human-peasants/peasant-defend.png~RC(magenta>green)~CS(24,24,24)"
+version=2.3.2
+author="Ilssear, based on work by Ravana, vn971, Dovolente, itota and Nosmos"
+description="A trainer for basic units, uses XP as in the XP Modification mod (spend XP to upgrade units damage/strikes/health/movement), but adds a free upgrade to +100 hp, +10 movement and +2 strikes."
+email="ilssear@gmail.com"

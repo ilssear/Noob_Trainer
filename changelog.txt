@@ -1,0 +1,39 @@
+2.0
+
+First version as modification
+
+2.0.1
+
+Fix for Mac-related lua error http://forums.wesnoth.org/viewtopic.php?f=15&t=39116&p=579957#p579947
+
+2.1.0
+
+HP : min cost 4 , max cost 12, step 1
+MP : min cost 8, max cost 16, step 1
+Damage : min cost 12, max cost 28, step 2
+Attack : min cost 40, max cost 56, step 2
+
+2.1.0a
+
+Added type=mp/sp/hybrid  to allow use in single player
+Removed #ifdef MULTIPLAYER
+Added workaround for bug #23512
+
+2.2.0
+
+Lua implementation by gfgtdf
+Better description for addon and modification
+
+2.3.0
+
+Added drain penalty customization by vn971
+
+2.3.1
+
+HP : default cost from 6 to 8
+
+2.3.2
+
+Added noob option (+100 hp, +10 mv, +2 strike)
+Changed default values for improvements: +25 hp, +5 mv, +2 dmg, +1 strk
+Changed default cost for upgrades (everything starts from 1 xp)
