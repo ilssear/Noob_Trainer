@@ -37,3 +37,6 @@ HP : default cost from 6 to 8
 Added noob option (+100 hp, +10 mv, +2 strike)
 Changed default values for improvements: +25 hp, +5 mv, +2 dmg, +1 strk
 Changed default cost for upgrades (everything starts from 1 xp)
+
+2.3.3
+Fixed missing menu item for drainer units
